@@ -1,0 +1,5 @@
+Rangkuman
+
+1. Visual Hierarchy merupakan prinsip yang mana mengatur elemen desain dengan tujuan memperlihatkan urutan kepentingannya. Dengan menyusun karakteristik visual misalnya icon pada sebuah menu sehingga user dapat memahami informasi secara mudah. Karna apabila desainer meletakkan elemen secara logis dan startegis, itu dapat membimbing pengguna kepada tindakan yang diinginkan.
+2. Tata letak dari elemen layar yang perlu diperhatikan terdapat ukuran dan spasi dari sistem, posisi, kepadatan, warna latar, rhythm, mempertegas item-item yang kecil, dan keselarasan. Contohnya seperti headline cenderung lebih besar dan kontras secara visual, menambahkan warna pada latar akan menarik perhatian ke blok teks dan membedakan blok tersebut dari teks lain.
+3. Dasar-dasar dari visual design adalah war2na dan kontras, typography, gambar, dan membangkitkan sebuah perasaan. Menerapkan warna membuat elemen tampak menonjol dari yang lain dan warna dapat menentukan elemen apa yang dapat menarik perhatian, lalu desain tipografi memiliki kekuatan untuk mempengaruhi sebuah pesan dari mulai desain halaman formal elegan hingga komposisi dinamis dan mencengangkan. 
