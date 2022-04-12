@@ -1,0 +1,5 @@
+Rangkuman
+
+1. Microcopy adalah kata atau frasa pada User Interface yang terkait langsung dengan tindakan yang dilakukan pengguna: Movitasi sebelum tindakan, instruksi yang menyertai tindakan, feedback setelah user mengambil tindakan. Perannya jika ingin membuat interface yang terdengar manusia dan berhubungan dengan orang yang menggunakkannya, perlu kata-kata.
+2. Dampak microcopy adalah menciptakan experience yang positif dan melibatkan user yang mana mengurangi keterasingan antara manusia daan mesin, meningkatkan dari sisi usability yang mana akan mencegah masalah dalam menyelesaikan suatu aksi, dan akan menyelamatkan waktu, frustasi, dan perasaan tidak berdaya user, serta meningkatkan branding dan diferensiasi yang mana microcopy ditulis dengan full understanding tentang brand kalian dan menargetkan user untuk highlight karakter brand.
+3. Voice and Tone Design menentukan bahasa yang digunakan pada saat berkomunikasi dengan pengguna di User Interface. Yang mana akan menjaga bahasa yang idgunakan pada brand agar tidak menciptaqkan ketidakselarasan dan ketidak konsisten.
